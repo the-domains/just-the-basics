@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Just The Basics]]></title>
+        <description><![CDATA[Just The Basics]]></description>
+        <link>https://thegrid.ai/just-the-basics/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 01 Jun 2016 14:25:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/just-the-basics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>https://thebarbergroup.box.com/v/2016winedinner</link>
+            <guid isPermaLink="false">7b5f98ef-19c9-44b5-bb78-aa733eafefc4</guid>
+            <pubDate>Wed, 01 Jun 2016 14:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>https://thebarbergroup.box.com/v/2016winedinner</link>
+            <guid isPermaLink="false">6971bf48-2f43-43de-9857-c67980f4f35d</guid>
+            <pubDate>Wed, 01 Jun 2016 14:24:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
